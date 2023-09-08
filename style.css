@@ -143,6 +143,13 @@ section {
   background-color: transparent;
   border: 2px solid #ffffff;
 }
+.intro__btn:hover{
+  background-color:#002ead;
+      transition: 0.7s;
+}
+.intro__btn:active{
+  background-color: aqua;
+}
 
 .intro .container {
   align-items: flex-start;
