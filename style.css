@@ -112,7 +112,7 @@ section {
 }
 
 .intro {
-  background-image: url(../img/background.jpg);
+  background-image: url(./img/background.jpg);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -163,7 +163,7 @@ section {
 .proects__title::before {
   content: "";
   width: 100px;
-  background-image: url(../img/decor-heading.png);
+  background-image: url(./img/decor-heading.png);
   background-repeat: no-repeat;
   background-position: center center;
   margin-right: 40px;
@@ -190,12 +190,12 @@ section {
 }
 
 .proects__item:nth-child(1) {
-  background-image: url(../img/proects_1.png);
+  background-image: url(./img/proects_1.png);
 }
 
 .proects__item:nth-child(2) {
  
-  background-image: url(../img/proects_2.png);
+  background-image: url(./img/proects_2.png);
 }
 
 .proects__about {
@@ -251,7 +251,7 @@ section {
 .catalog__title::before {
   content: "";
   width: 100px;
-  background-image: url(../img/decor-heading.png);
+  background-image: url(./img/decor-heading.png);
   background-repeat: no-repeat;
   background-position: center center;
   margin-right: 40px;
@@ -297,15 +297,15 @@ section {
 }
 
 .catalog__item:nth-child(1) {
-  background-image: url(../img/catalog-item_1.png);
+  background-image: url(./img/catalog-item_1.png);
 }
 
 .catalog__item:nth-child(2) {
-  background-image: url(../img/catalog-item_2.png);
+  background-image: url(./img/catalog-item_2.png);
 }
 
 .catalog__item:nth-child(3) {
-  background-image: url(../img/catalog-item_3.png);
+  background-image: url(./img/catalog-item_3.png);
 }
 
 .catalog__item-about {
@@ -330,7 +330,7 @@ section {
 .rent__title::before {
   content: "";
   width: 100px;
-  background-image: url(../img/decor-heading.png);
+  background-image: url(./img/decor-heading.png);
   background-repeat: no-repeat;
   background-position: center center;
   margin-right: 40px;
@@ -390,7 +390,7 @@ section {
 .news__title::before {
   content: "";
   width: 100px;
-  background-image: url(../img/decor-heading.png);
+  background-image: url(./img/decor-heading.png);
   background-repeat: no-repeat;
   background-position: center center;
   margin-right: 40px;
